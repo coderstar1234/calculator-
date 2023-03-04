@@ -1,0 +1,48 @@
+<!-- Css-->
+body {
+    font-family: bolder ;
+}
+
+.calculator {
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #003;
+    width: 250px;
+}
+
+.output {
+    display: inline-block ;
+    margin: 0 0 10px;
+    padding: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    border: black-dashed;
+    border-radius: 54px;
+    background-color: #fff;
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 5px;
+}
+
+button {
+    border: dashedline;
+    border-radius: 5px;
+    background-color:fff;
+    color: #333;
+    font-size: 18px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #333;
+    color: #fff;
+}
