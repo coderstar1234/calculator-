@@ -5,9 +5,11 @@
 <br>
 <br>
 <hr>
-<h1 align="center"> deceleration </h1>
-<img align="center" height="300" wedith="300" src="https://cdn.dribbble.com/users/470545/screenshots/3471475/calculater.gif">
-
+<h1 align="center"> Deceleration </h1>
+<p align="center">
+<img  height="300" wedith="300" src="https://cdn.dribbble.com/users/470545/screenshots/3471475/calculater.gif">
+</p>
+<br>
 <h3 align="center"> Features</h3>
 
 - Responsive design that adapts to different screen sizes.<br>
