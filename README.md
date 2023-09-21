@@ -5,7 +5,7 @@
 <br>
 <br>
 <hr>
-<h1 align="center"> Deceleration🧑‍🤝‍🧑 </h1>
+<h1 align="center"> Deceleration:🧑‍🤝‍🧑 </h1>
 <p align="center">
 <img  height="300" wedith="300" src="https://cdn.dribbble.com/users/470545/screenshots/3471475/calculater.gif">
 </p>
