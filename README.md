@@ -10,7 +10,7 @@
 <img  height="300" wedith="300" src="https://cdn.dribbble.com/users/470545/screenshots/3471475/calculater.gif">
 </p>
 <br>
-<h2 align="center"> Features:📝</h2>
+<h2 align="center"> Features:-📝</h2>
 
 - Responsive design that adapts to different screen sizes.<br>
 - Basic arithmetic operations such as addition, subtraction, multiplication, and division.<br>
