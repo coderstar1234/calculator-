@@ -1,9 +1,6 @@
 <h1 align="center"> Digital Calculator:-🧮</h1>
 
 - This is a simple calculator designed using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
-
-<br>
-<br>
 <hr>
 <h1 align="center"> Deceleration:-🧑‍🤝‍🧑 </h1>
 <p align="center">
