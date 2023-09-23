@@ -16,7 +16,8 @@
 - Basic arithmetic operations such as addition, subtraction, multiplication, and division.<br>
 - Clear button to reset the calculator to its initial state.<br>
 - Backspace button to remove the last digit entered.<br>
-- Decimal point button to enter decimal numbers.<br><hr>
+- Decimal point button to enter decimal numbers.
+<hr>
 <h1 align="center"> How to Use ✏️</h1>
 
 - Clone this repository to your local machine.<br>
