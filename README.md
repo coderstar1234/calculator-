@@ -15,7 +15,7 @@
 - Backspace button to remove the last digit entered.<br>
 - Decimal point button to enter decimal numbers.
 <hr>
-<h1 align="center"> How to Use ✏️</h1>
+<h1 align="center"> How to Use :✏️</h1>
 
 - Clone this repository to your local machine.<br>
 - Open the index.html file in a web browser.<br>
