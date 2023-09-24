@@ -23,7 +23,7 @@
 - Use the clear button to reset the calculator to its initial state.<br>
 - Use the backspace button to remove the last digit entered.<br>
 - Use the decimal point button to enter decimal numbers.<br><hr>
-<h1 align="center"> Technologies Used:👩‍💻</h1>
+<h1 align="center"> Technologies Used:-👩‍💻</h1>
 
 - This calculator is designed using the following technologies:
 <p align="right">
