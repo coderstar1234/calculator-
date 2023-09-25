@@ -22,7 +22,8 @@
 - Use the buttons to enter numbers and perform arithmetic operations.<br>
 - Use the clear button to reset the calculator to its initial state.<br>
 - Use the backspace button to remove the last digit entered.<br>
-- Use the decimal point button to enter decimal numbers.<br><hr>
+- Use the decimal point button to enter decimal numbers.
+<hr>
 <h1 align="center"> Technologies Used:-👩‍💻</h1>
 
 - This calculator is designed using the following technologies:
